@@ -14,7 +14,6 @@ I am Zhibin Gu (谷志斌), having completed my Ph.D. in Computer Science at Bei
 ## News
 
 - **[May 2024]** One paper has been accepted by ICML 2024.
-- **[May 2024]** One paper has been accepted by ICML 2024.
 - **[May 2024]** One paper has been accepted by ACM SIGKDD 2024.
 - **[Feb. 2024]** One paper has been accepted by ACM TKDD 2024.
 - **[Mar. 2023]** One paper has been accepted by ACM TKDD 2023.
