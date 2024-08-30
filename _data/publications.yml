@@ -1,14 +1,15 @@
 main:
 
-  - title: title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Error Rank Minimization"
+  authors: "Zhibin Gu, Zhendong Li, Songhe Feng*"
+  conference_short: "ICML"
+  conference: "International Conference on Machine Learning (ICML), 2024."
+  pdf: "https://openreview.net/forum?id=fiugPLSXjK"
+  code: "https://github.com/MrGiovanni/ContinualLearning"
+  bibtex: "https://bib.yliu.me/MICCAI23.txt"
+  image: "./assets/img/teaser_example_2.png"
+  notes: "Early Accept"
+
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
