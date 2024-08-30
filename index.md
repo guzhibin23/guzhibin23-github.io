@@ -8,15 +8,16 @@ I am Zhibin Gu (谷志斌), having completed my Ph.D. in Computer Science at Bei
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
+- **Machine Learning:** multi-view representation learning, clustering analysis, 
+ weakly supervised learning
+- **Data Mining:** large-scale data analysis, graph representation learning, convex and non-convex optimization
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May 2024]** One paper has been accepted by ICML 2024.
+- **[May 2024]** One paper has been accepted by ICML 2024.
+- **[May 2024]** One paper has been accepted by ACM SIGKDD 2024.
+- **[Feb. 2024]** One paper has been accepted by ACM TKDD 2024.
+- **[Mar. 2023]** One paper has been accepted by ACM TKDD 2023.
 
 {% include_relative _includes/publications.md %}
 
