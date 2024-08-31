@@ -8,11 +8,13 @@ I am Zhibin Gu (谷志斌), having completed my Ph.D. in Computer Science at Bei
 
 ## Research Interests
 
-- **Machine Learning:** multi-view representation learning, clustering analysis, 
- weakly supervised learning
-- **Data Mining:** large-scale data analysis, graph representation learning, convex and non-convex optimization
+- **Machine Learning:** multi-view learning, clustering analysis, weakly supervised learning
+- **Data Mining:** graph representation learning, convex and non-convex optimization
+  
 ## News
 
+- **[Aug. 2024]** I have been invited to review for ICLR 2025.
+- **[Jul. 2024]** I have been invited to review for ACM SIGKDD 2025 and AAAI 2025.
 - **[May 2024]** One paper has been accepted by ICML 2024.
 - **[May 2024]** One paper has been accepted by ACM SIGKDD 2024.
 - **[Feb. 2024]** One paper has been accepted by ACM TKDD 2024.
