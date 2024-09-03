@@ -46,7 +46,7 @@ main:
     conference: "ACM Transactions on Knowledge Discovery from Data (TKDD), 2024."
     # page: "https://class-il.mpi-inf.mpg.de/mnemonics/"
     # bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/"
-    image: "./assets/img/teaser_example4.png"
+    image: "./assets/img/teaser_example_4.png"
 
   - title: "Triple-Granularity Contrastive Learning for Deep Multi-View Clustering"
     authors: "Jing Wang, Songhe Feng*, Zhibin Gu, Gengyu Lyu"
@@ -56,7 +56,7 @@ main:
     # code: "https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training"
     # page: "https://class-il.mpi-inf.mpg.de/mnemonics/"
     # bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/"
-    # image: "./assets/img/teaser_example7.png"
+    image: "./assets/img/teaser_example_7.png"
 
   - title: "Diversity Induced Consensus and Structured Graph Learning for Multi-View Clustering"
     authors: "Zhibin Gu, Hongzhe Liu, Songhe Feng*"
@@ -66,4 +66,4 @@ main:
     # code: "https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training"
     # page: "https://class-il.mpi-inf.mpg.de/mnemonics/"
     # bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/"
-    image: "./assets/img/teaser_example8.png"
+    image: "./assets/img/teaser_example_8.png"
