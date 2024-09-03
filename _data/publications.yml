@@ -1,69 +1,69 @@
 main:
   - title: "EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Error Rank Minimization"
-    authors: "<strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*"
+    authors: "**Zhibin Gu**, Zhendong Li, Songhe Feng*"
     conference_short: "ICML"
     conference: "International Conference on Machine Learning (ICML), 2024."
-    <!-- pdf: "https://openreview.net/forum?id=fiugPLSXjK" -->
-    <!-- code: "https://github.com/MrGiovanni/ContinualLearning" -->
-    <!-- bibtex: "https://bib.yliu.me/MICCAI23.txt" -->
+    # pdf: "https://openreview.net/forum?id=fiugPLSXjK"
+    # code: "https://github.com/MrGiovanni/ContinualLearning"
+    # bibtex: "https://bib.yliu.me/MICCAI23.txt"
     image: "./assets/img/teaser_example_1.png"
-    <!-- notes: "Early Accept" -->
+    # notes: "Early Accept"
 
   - title: "Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization"
-    authors: "<strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*"
+    authors: "**Zhibin Gu**, Zhendong Li, Songhe Feng*"
     conference_short: "ACM SIGKDD"
     conference: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD), 2024."
-    <!-- pdf: "https://dl.acm.org/doi/10.1145/3637528.3672070" -->
+    # pdf: "https://dl.acm.org/doi/10.1145/3637528.3672070"
     image: "./assets/img/teaser_example_2.png"
 
   - title: "NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering"
-    authors: "<strong>Zhibin Gu</strong>, Songhe Feng*, Zhendong Li, Jiazheng Yuan, Jun Liu"
+    authors: "**Zhibin Gu**, Songhe Feng*, Zhendong Li, Jiazheng Yuan, Jun Liu"
     conference_short: "ACM TKDD"
     conference: "ACM Transactions on Knowledge Discovery from Data (TKDD), 2024."
-    <!-- pdf: "https://dl.acm.org/doi/10.1145/3653305" -->
+    # pdf: "https://dl.acm.org/doi/10.1145/3653305"
     image: "./assets/img/teaser_example_5.png"
-    <!-- notes: "Early Accept" -->
+    # notes: "Early Accept"
 
   - title: "Consensus Representation-Driven Structured Graph Learning for Multi-View Clustering"
-    authors: "<strong>Zhibin Gu</strong>, Songhe Feng*, Jiazheng Yuan*, Ximing Li"
+    authors: "**Zhibin Gu**, Songhe Feng*, Jiazheng Yuan*, Ximing Li"
     conference_short: "APIN"
     conference: "Applied Intelligence (APIN), 2024."
-    <!-- pdf: "https://link.springer.com/article/10.1007/s10489-024-05616-6" -->
+    # pdf: "https://link.springer.com/article/10.1007/s10489-024-05616-6"
     image: "./assets/img/teaser_example_6.png"
 
   - title: "Individuality Meets Commonality: A Unified Graph Learning Framework for Multi-View Clustering"
-    authors: "<strong>Zhibin Gu</strong>, Songhe Feng*"
+    authors: "**Zhibin Gu**, Songhe Feng*"
     conference_short: "ACM TKDD"
     conference: "ACM Transactions on Knowledge Discovery from Data (TKDD), 2024."
-    <!-- pdf: "https://dl.acm.org/doi/abs/10.1145/3532612" -->
-    <!-- code: "https://github.com/MrGiovanni/ContinualLearning" -->
-    <!-- bibtex: "https://bib.yliu.me/MICCAI23.txt" -->
+    # pdf: "https://dl.acm.org/doi/abs/10.1145/3532612"
+    # code: "https://github.com/MrGiovanni/ContinualLearning"
+    # bibtex: "https://bib.yliu.me/MICCAI23.txt"
     image: "./assets/img/teaser_example_3.png"
 
   - title: "ONION: Joint Unsupervised Feature Selection and Robust Subspace Extraction for Graph-based Multi-View Clustering"
-    authors: "<strong>Zhibin Gu</strong>, Songhe Feng*, Ruiting Hu, Gengyu Lyu"
+    authors: "**Zhibin Gu**, Songhe Feng*, Ruiting Hu, Gengyu Lyu"
     conference_short: "ACM TKDD"
     conference: "ACM Transactions on Knowledge Discovery from Data (TKDD), 2024."
-    <!-- page: "https://class-il.mpi-inf.mpg.de/mnemonics/" -->
-    <!-- bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/" -->
+    # page: "https://class-il.mpi-inf.mpg.de/mnemonics/"
+    # bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/"
     image: "./assets/img/teaser_example_4.png"
 
   - title: "Triple-Granularity Contrastive Learning for Deep Multi-View Clustering"
-    authors: "Jing Wang, Songhe Feng*, <strong>Zhibin Gu</strong>, Gengyu Lyu"
+    authors: "Jing Wang, Songhe Feng*, **Zhibin Gu**, Gengyu Lyu"
     conference_short: "ACM MM"
     conference: "ACM International Conference on Multimedia (ACM MM), 2023."
-    <!-- pdf: "https://dl.acm.org/doi/abs/10.1145/3581783.3611844" -->
-    <!-- code: "https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training" -->
-    <!-- page: "https://class-il.mpi-inf.mpg.de/mnemonics/" -->
-    <!-- bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/" -->
+    # pdf: "https://dl.acm.org/doi/abs/10.1145/3581783.3611844"
+    # code: "https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training"
+    # page: "https://class-il.mpi-inf.mpg.de/mnemonics/"
+    # bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/"
     image: "./assets/img/teaser_example_7.png"
 
   - title: "Diversity Induced Consensus and Structured Graph Learning for Multi-View Clustering"
-    authors: "<strong>Zhibin Gu</strong>, Hongzhe Liu, Songhe Feng*"
+    authors: "**Zhibin Gu**, Hongzhe Liu, Songhe Feng*"
     conference_short: "APIN"
     conference: "Applied Intelligence (APIN), 2023."
-    <!-- pdf: "https://link.springer.com/article/10.1007/s10489-022-04074-2" -->
-    <!-- code: "https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training" -->
-    <!-- page: "https://class-il.mpi-inf.mpg.de/mnemonics/" -->
-    <!-- bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/" -->
+    # pdf: "https://link.springer.com/article/10.1007/s10489-022-04074-2"
+    # code: "https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training"
+    # page: "https://class-il.mpi-inf.mpg.de/mnemonics/"
+    # bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/"
     image: "./assets/img/teaser_example_8.png"
