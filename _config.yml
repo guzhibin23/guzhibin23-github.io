@@ -6,14 +6,14 @@ email: guzhibin@bjtu.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Zhibin Gu homepage
-description: Zhibin Gu homepage.
+keywords: Zhibin Gu, Beijing Jiaotong University, Ph.D. Student, Machine Learning, Data Mining, Academic Homepage
+description: Welcome to the academic homepage of Zhibin Gu, a Ph.D. student at Beijing Jiaotong University specializing in machine learning and data mining. Explore his research, publications, and academic contributions.
 canonical: guzhibin23-github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=-uBBqdYAAAAJ
-# cv_link: assets/files/curriculum_vitae.pdf
+cv_link: assets/files/curriculum_vitae.pdf
 github_link: https://github.com/guzhibin23
 # linkedin: https://www.linkedin.com/
 # twitter: https://twitter.com/
