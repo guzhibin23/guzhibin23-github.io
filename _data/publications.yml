@@ -29,7 +29,7 @@ main:
     conference_short: "APIN"
     conference: "Applied Intelligence (APIN), 2024."
     # pdf: "https://link.springer.com/article/10.1007/s10489-024-05616-6"
-    image: "./assets/img/teaser_example.png"
+    image: "./assets/img/teaser_example_6.png"
 
   - title: "Individuality Meets Commonality: A Unified Graph Learning Framework for Multi-View Clustering"
     authors: "Zhibin Gu, Songhe Feng*"
@@ -44,7 +44,6 @@ main:
     authors: "Zhibin Gu, Songhe Feng*, Ruiting Hu, Gengyu Lyu"
     conference_short: "ACM TKDD"
     conference: "ACM Transactions on Knowledge Discovery from Data (TKDD), 2024."
-    pdf: "https://dl.acm.org/doi/10.1145/3568684"
     # page: "https://class-il.mpi-inf.mpg.de/mnemonics/"
     # bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/"
     image: "./assets/img/teaser_example4.png"
@@ -57,7 +56,7 @@ main:
     # code: "https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training"
     # page: "https://class-il.mpi-inf.mpg.de/mnemonics/"
     # bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/"
-    # image: "./assets/img/teaser_example.png"
+    # image: "./assets/img/teaser_example7.png"
 
   - title: "Diversity Induced Consensus and Structured Graph Learning for Multi-View Clustering"
     authors: "Zhibin Gu, Hongzhe Liu, Songhe Feng*"
@@ -67,4 +66,4 @@ main:
     # code: "https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training"
     # page: "https://class-il.mpi-inf.mpg.de/mnemonics/"
     # bibtex: "https://class-il.mpi-inf.mpg.de/mnemonics/"
-    # image: "./assets/img/teaser_example.png"
+    image: "./assets/img/teaser_example8.png"
