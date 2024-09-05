@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Zhibin Gu (谷志斌), having completed my Ph.D. in Computer Science at Beijing Jiaotong University in 2024, under the supervision of [Professor Songhe Feng](http://faculty.bjtu.edu.cn/8407/). During 2023-2024, I was a visiting student at Singapore University of Technology and Design, funded by the China Scholarship Council (CSC) and mentored by [Professor Jun Liu](https://sites.google.com/view/junliu021). My research interests lie in machine learning and data mining, with a particular focus on multi-view representation learning, clustering analysis, and weakly supervised learning. My ultimate goal is to develop algorithms and systems that can learn from limited, dynamic, and imperfect real-world scenarios in a manner akin to human learning.
+I am Zhibin Gu (谷志斌), having completed my Ph.D. in Computer Science at Beijing Jiaotong University in 2024, under the supervision of Professor [Songhe Feng](http://faculty.bjtu.edu.cn/8407/). During 2023-2024, I was a visiting student at Singapore University of Technology and Design, funded by the China Scholarship Council (CSC) and mentored by Professor [Jun Liu](https://sites.google.com/view/junliu021). My research interests lie in machine learning and data mining, with a particular focus on multi-view representation learning, clustering analysis, and weakly supervised learning. My ultimate goal is to develop algorithms and systems that can learn from limited, dynamic, and imperfect real-world scenarios in a manner akin to human learning.
 
 
 ## Research Interests
