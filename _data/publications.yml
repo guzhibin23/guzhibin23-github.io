@@ -8,14 +8,14 @@ main:
     image: "./assets/img/teaser_example_1.png"
     # notes: "Early Accept"
 
-  - title: "Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization"
+  - title: "<a href=\"https://dl.acm.org/doi/10.1145/3637528.3672070\">Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization</a>"
     authors: "<strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*"
     conference_short: "ACM SIGKDD"
     conference: "ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD), 2024."
     # pdf: "https://dl.acm.org/doi/10.1145/3637528.3672070"
     image: "./assets/img/teaser_example_2.png"
 
-  - title: "NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering"
+  - title: "<a href=\"https://dl.acm.org/doi/10.1145/3653305\">NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering</a>"
     authors: "<strong>Zhibin Gu</strong>, Songhe Feng*, Zhendong Li, Jiazheng Yuan, Jun Liu"
     conference_short: "ACM TKDD"
     conference: "ACM Transactions on Knowledge Discovery from Data (TKDD), 2024."
