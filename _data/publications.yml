@@ -1,6 +1,6 @@
 main:
   - title: "EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Error Rank Minimization"
-    authors: "**Zhibin Gu**, Zhendong Li, Songhe Feng*"
+    authors: "<strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*"
     conference_short: "ICML"
     conference: "International Conference on Machine Learning (ICML), 2024."
     # pdf: "https://openreview.net/forum?id=fiugPLSXjK"
