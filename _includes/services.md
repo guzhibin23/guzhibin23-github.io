@@ -17,5 +17,6 @@
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
   <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Knowledge-Based Systems (KBS)</autocolor></a></li>
+    <li><a href="https://www.springer.com/journal/11263"><autocolor>Applied Intelligenc (APIN)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Neurocomputing</autocolor></a></li>
 </ul>
