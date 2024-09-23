@@ -19,4 +19,5 @@
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Knowledge-Based Systems (KBS)</autocolor></a></li>
     <li><a href="https://www.springer.com/journal/11263"><autocolor>Applied Intelligenc (APIN)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Neurocomputing</autocolor></a></li>
+   <li><a href="https://www.springer.com/journal/11263"><autocolor>Multimedia Systems</autocolor></a></li>
 </ul>
