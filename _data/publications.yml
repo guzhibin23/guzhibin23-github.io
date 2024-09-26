@@ -2,8 +2,8 @@ main:
 
   - title: "<a href=\"https://openreview.net/forum?id=fiugPLSXjK\">From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement</a>"
     authors: "<strong>Zhibin Gu</strong>, Songhe Feng*"
-    conference_short: "ICML"
-    conference: "International Conference on Machine Learning (ICML), 2024."
+    conference_short: "NeurIPS"
+    conference: "Annual Conference on Neural Information Processing Systems (NeurIPS), 2024."
     # pdf: "https://openreview.net/forum?id=fiugPLSXjK"
     # code: "https://github.com/MrGiovanni/ContinualLearning"
     # bibtex: "https://bib.yliu.me/MICCAI23.txt"
