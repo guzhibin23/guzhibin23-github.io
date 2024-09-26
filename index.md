@@ -14,7 +14,7 @@ I am Zhibin Gu (谷志斌), having completed my Ph.D. in Computer Science at Bei
   
 ## News
 
-- **[Sept. 2024]** One paper has been accepted by ICML 2024.
+- **[Sept. 2024]** One paper has been accepted by NeurIPS 2024.
 - **[Aug. 2024]** I have been invited to review for ICLR 2025.
 - **[Jul. 2024]** I have been invited to review for ACM SIGKDD 2025 and AAAI 2025.
 - **[May 2024]** One paper has been accepted by ICML 2024.
