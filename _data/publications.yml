@@ -1,6 +1,6 @@
 main:
     
-    - title: "<a href=\"https://openreview.net/forum?id=fiugPLSXjK\">From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement</a>"
+    - title: "<a href=\"https://neurips.cc/virtual/2024/poster/93579\">From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement</a>"
     authors: "<strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*"
     conference_short: "NeurIPS"
     conference: "Neural Information Processing Systems (NeurIPS), 2024."
