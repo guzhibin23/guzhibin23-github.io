@@ -14,11 +14,12 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Knowledge-Based Systems (KBS)</autocolor></a></li>
     <li><a href="https://www.springer.com/journal/11263"><autocolor>Applied Intelligenc (APIN)</autocolor></a></li>
   <li><a href="https://www.springer.com/journal/11263"><autocolor>Neurocomputing</autocolor></a></li>
-   <li><a href="https://www.springer.com/journal/11263"><autocolor>Multimedia Systems</autocolor></a></li>
+   <li><a href="https://link.springer.com/journal/41060"><autocolor>International Journal of Data Science and Analytics</autocolor></a></li>
+     <li><a href="https://www.springer.com/journal/11263"><autocolor>Multimedia Systems</autocolor></a></li>
 </ul>
