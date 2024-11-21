@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="[https://neurips.cc/Conferences/2024](https://cvpr.thecvf.com/Conferences/2025)"><autocolor>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</autocolor></a></li>
+  <li><a href="[https://cvpr.thecvf.com/Conferences/2025]"><autocolor>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
    <li><a href="https://virtual.aistats.org/Conferences/2025"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2025</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD) 2024-2025</autocolor></a></li>
