@@ -6,6 +6,7 @@
   <li><a href="[https://cvpr.thecvf.com/Conferences/2025]"><autocolor>The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2025</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
    <li><a href="https://virtual.aistats.org/Conferences/2025"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2025</autocolor></a></li>
+     <li><a href="https://ecmlpkdd.org/2025/"><autocolor>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD-ADS) 2025</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD) 2024-2025</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2025</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2024</autocolor></a></li>
