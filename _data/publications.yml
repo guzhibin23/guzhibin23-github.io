@@ -1,5 +1,15 @@
 main:
 
+  - title: "<a href=\"https://aaai.org/conferenc\">KOALA:Kernel Coupling and Element Imputation Induced Multi-View Clustering</a>"
+    authors: "Tingting Wu, Zhendong Li, <strong>Zhibin Gu</strong>, Jiazheng Yuan, Songhe Feng*"
+    conference_short: "AAAI"
+    conference: "Annual AAAI Conference on Artificial Intelligence (AAAI), 2025."
+    # pdf: "https://openreview.net/forum?id=fiugPLSXjK"
+    # code: "https://github.com/MrGiovanni/ContinualLearning"
+    # bibtex: "https://bib.yliu.me/MICCAI23.txt"
+    image: "./assets/img/teaser-example_Nips24.png"
+    # notes: "Early Accept"
+
   - title: "<a href=\"https://neurips.cc/virtual/2024/poster/93579\">From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement</a>"
     authors: "<strong>Zhibin Gu</strong>, Songhe Feng*"
     conference_short: "NeurIPS"
