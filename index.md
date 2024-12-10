@@ -15,6 +15,7 @@ My research interests lie in the fields of machine learning and data mining, wit
   
 ## News
 
+- **[Dec. 2024]** I have been invited to review for IJCAI 2025.
 - **[Nov. 2024]** I have been invited to review for CVPR 2025.
 - **[Oct. 2024]** I have been invited to review for AISTATS 2025.
 - **[Sept. 2024]** One paper has been accepted by NeurIPS 2024.
