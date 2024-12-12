@@ -16,12 +16,12 @@ My research interests lie in the fields of machine learning and data mining, wit
 ## News
 
 - **[Dec. 2024]** One paper has been accepted by AAAI 2025.
-- **[Dec. 2024]** I have been invited to review for ICML 2025, IJCAI 2025 and ECML-PKDD (ADS) 2025.
-- **[Nov. 2024]** I have been invited to review for CVPR 2025.
-- **[Oct. 2024]** I have been invited to review for AISTATS 2025.
+- **[Dec. 2024]** I have been invited to serve as a reviewer for ICML 2025, IJCAI 2025, and ECML-PKDD (ADS) 2025.
+- **[Nov. 2024]** I have been invited to serve as a reviewer for CVPR 2025.
+- **[Oct. 2024]** I have been invited to serve as a reviewer for AISTATS 2025.
 - **[Sept. 2024]** One paper has been accepted by NeurIPS 2024.
-- **[Aug. 2024]** I have been invited to review for ICLR 2025.
-- **[Jul. 2024]** I have been invited to review for ACM SIGKDD 2025 and AAAI 2025.
+- **[Aug. 2024]** I have been invited to serve as a reviewer for ICLR 2025.
+- **[Jul. 2024]** I have been invited to serve as a reviewer for ACM SIGKDD 2025 and AAAI 2025.
 - **[May 2024]** One paper has been accepted by ICML 2024.
 - **[May 2024]** One paper has been accepted by ACM SIGKDD 2024.
 
