@@ -7,7 +7,7 @@ main:
     # pdf: "https://openreview.net/forum?id=fiugPLSXjK"
     # code: "https://github.com/MrGiovanni/ContinualLearning"
     # bibtex: "https://bib.yliu.me/MICCAI23.txt"
-    image: "./assets/img/teaser-example_9.png.png"
+    image: "./assets/img/teaser-example_9.png"
     # notes: "Early Accept"
 
   - title: "<a href=\"https://neurips.cc/virtual/2024/poster/93579\">From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement</a>"
