@@ -7,7 +7,7 @@ main:
     # pdf: "https://openreview.net/forum?id=fiugPLSXjK"
     # code: "https://github.com/MrGiovanni/ContinualLearning"
     # bibtex: "https://bib.yliu.me/MICCAI23.txt"
-    # image: "./assets/img/teaser-example_9.png"
+    image: "./assets/img/teaser-example_AAAI25.png"
     # notes: "Early Accept"
 
   - title: "<a href=\"https://openreview.net/forum?id=fiugPLSXjK\">EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Error Rank Minimization</a>"
