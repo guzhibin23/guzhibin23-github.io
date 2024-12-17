@@ -72,7 +72,7 @@ main:
     image: "./assets/img/teaser_example_4.png"
 
   - title: "Triple-Granularity Contrastive Learning for Deep Multi-View Clustering"
-    authors: "Jing Wang, Songhe Feng*, <strong>Zhibin Gu</strong>, Gengyu Lyu"
+    authors: "Jing Wang, Songhe Feng*, Gengyu Lyu, <strong>Zhibin Gu</strong>"
     conference_short: "ACM MM"
     conference: "ACM International Conference on Multimedia (ACM MM), 2023."
     # pdf: "https://dl.acm.org/doi/abs/10.1145/3581783.3611844"
