@@ -1,5 +1,11 @@
 ## Services
 
+<h4 style="margin:0 10px 0;">Conference Area Chair</h4>
+
+<ul style="margin:0 0 20px;">
+  <li><a href="https://ieeexplore.ieee.org/xpl/conhome/1000500/all-proceedings"><autocolor>International Joint Conference on Neural Networks (IJCNN)</autocolor></a></li>
+</ul>
+
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
