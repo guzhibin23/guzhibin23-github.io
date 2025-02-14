@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am Zhibin Gu (谷志斌), currently a Distinguished Associate Professor (特聘副教授) at Hebei Normal University. Prior to this, I obtained my Ph.D. in Computer Science from Beijing Jiaotong University in June 2024, under the supervision of Prof. [Songhe Feng](http://faculty.bjtu.edu.cn/8407/). From March 2023 to March 2024, I was a visiting student at the Singapore University of Technology and Design, where I worked under the guidance of Prof. [Jun Liu](https://wp.lancs.ac.uk/vl/).
+I am Zhibin Gu (谷志斌), currently a Distinguished Associate Professor at Hebei Normal University. Prior to this, I obtained my Ph.D. in Computer Science from Beijing Jiaotong University in June 2024, under the supervision of Prof. [Songhe Feng](http://faculty.bjtu.edu.cn/8407/). From March 2023 to March 2024, I was a visiting student at the Singapore University of Technology and Design, where I worked under the guidance of Prof. [Jun Liu](https://wp.lancs.ac.uk/vl/).
 My research interests lie in the fields of machine learning and data mining, with a particular focus on multi-view representation learning, clustering analysis, and weakly-supervised learning. My long-term goal is to develop algorithms and systems that can learn from limited, dynamic, and imperfect real-world data in a manner similar to human learning.
 
 
