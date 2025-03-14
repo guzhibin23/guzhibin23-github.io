@@ -20,7 +20,7 @@
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (ACM SIGKDD) 2024-2025</autocolor></a></li>
       <li><a href="https://www.auai.org/uai2025/important_dates"><autocolor>Uncertainty in Artificial Intelligence (UAI) 2025</autocolor></a></li>
   <li><a href="https://neurips.cc/Conferences/2024"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2025</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>ACM Multimedia (ACM MM) 2023-2024</autocolor></a></li>
+  <li><a href="http://iccv2021.thecvf.com/"><autocolor>ACM Multimedia (ACM MM) 2023-2025</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
