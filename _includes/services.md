@@ -30,10 +30,10 @@
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
-      <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
      <li><a href="https://link.springer.com/journal/41060"><autocolor>International Journal of Data Science and Analytics</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/knowledge-based-systems"><autocolor>Knowledge-Based Systems (KBS)</autocolor></a></li>
     <li><a href="https://link.springer.com/journal/10489"><autocolor>Applied Intelligenc (APIN)</autocolor></a></li>
+        <li><a href="https://www.sciencedirect.com/journal/pattern-recognition"><autocolor>Pattern Recognition (PR)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a></li>
      <li><a href="[https://www.springer.com/journal/11263](https://link.springer.com/journal/530)"><autocolor>Multimedia Systems</autocolor></a></li>
 </ul>
