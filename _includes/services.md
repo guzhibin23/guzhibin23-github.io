@@ -15,8 +15,8 @@
    <li><a href="https://virtual.aistats.org/Conferences/2025"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2025</autocolor></a></li>
     <li><a href="https://neurips.cc/Conferences/2024"><autocolor>International Conference on Learning Representations (ICLR) 2025</autocolor></a></li>
      <li><a href="https://2025.ijcai.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2025</autocolor></a></li>
-  <li><a href="https://iccv.thecvf.com/"><autocolor>International Conference on Computer Vision (ICCV) 2025</autocolor></a></li>
    <li><a href="https://icml.cc/"><autocolor>International Conference on Machine Learning (ICML) 2025</autocolor></a></li>
+    <li><a href="https://iccv.thecvf.com/"><autocolor>International Conference on Computer Vision (ICCV) 2025</autocolor></a></li>
     <li><a href="https://neurips.cc/Conferences/2024"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2025</autocolor></a></li>
      <li><a href="https://ecai2025.org/"><autocolor>European Conference on Artificial Intelligence (ECAI) 2025</autocolor></a></li>
       <li><a href="https://www.auai.org/uai2025/important_dates"><autocolor>Uncertainty in Artificial Intelligence (UAI) 2025</autocolor></a></li>
