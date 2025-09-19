@@ -15,7 +15,7 @@ My research interests lie in the fields of machine learning and data mining, wit
   
 ## News
 
-- **[[Sep. 2025]]** Two papers have been accepted by NeurIPS 2025.
+- **[Sep. 2025]** Two papers have been accepted by NeurIPS 2025.
 - **[Feb. 2025]** I have been invited to serve as a reviewer for ICCV 2025 and NeurIPS 2025.
 - **[Dec. 2024]** I have been invited to serve as an **Area Chair** for the IJCNN 2025.
 - **[Dec. 2024]** One paper has been accepted by AAAI 2025.
