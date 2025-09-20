@@ -25,11 +25,6 @@ I invite students and research assistants, including undergraduates, with an int
 - **[Dec. 2024]** I have been invited to serve as an **Area Chair** for the IJCNN 2025.
 - **[Dec. 2024]** One paper has been accepted by AAAI 2025.
 - **[Dec. 2024]** I have been invited to serve as a reviewer for ICML 2025, IJCAI 2025, ECML-PKDD (ADS) 2025 and UAI 2025.
-- **[Nov. 2024]** I have been invited to serve as a reviewer for CVPR 2025.
-- **[Oct. 2024]** I have been invited to serve as a reviewer for AISTATS 2025.
-- **[Sept. 2024]** One paper has been accepted by NeurIPS 2024.
-- **[Aug. 2024]** I have been invited to serve as a reviewer for ICLR 2025.
-- **[Jul. 2024]** I have been invited to serve as a reviewer for ACM SIGKDD 2025 and AAAI 2025.
 
 ## Selected Publications (<em>*Corresponding author</em>)</h2>
 <ul class="publications-list">
