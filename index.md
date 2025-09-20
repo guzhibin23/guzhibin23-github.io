@@ -26,7 +26,7 @@ My research interests lie in the fields of machine learning and data mining, wit
 - **[Aug. 2024]** I have been invited to serve as a reviewer for ICLR 2025.
 - **[Jul. 2024]** I have been invited to serve as a reviewer for ACM SIGKDD 2025 and AAAI 2025.
 
-## Selected Publications
+## Selected Publications (<em>*Corresponding author</em>)</h2>
 <ul class="publications-list">
     <li>
     <span class="authors"><strong>Zhibin Gu</strong>, Weili Wang*.</span>
@@ -59,7 +59,7 @@ My research interests lie in the fields of machine learning and data mining, wit
   </li>
 
   <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Zhendong Li^, Songhe Feng*.</span>
+    <span class="authors"><strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*.</span>
     <span class="title">EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Rank Error Minimization</span>
     <span class="venue">International Conference on Machine Learning (<strong>ICML</strong>), 2024 (<strong>CCF A</strong>)</span>
   </li>
@@ -90,10 +90,32 @@ My research interests lie in the fields of machine learning and data mining, wit
 </ul>
 
 
+## <h2>Professional Service</h2>
+<h3>Conference Reviewer</h3>
+<ul class="reviewer-list">
+International Joint Conference on Neural Networks <li><strong> (IJCNN, 2025, Area Chair)</strong></li>
+  <li>International Conference on Machine Learning (ICML 2024 )</li>
+  <li>Conference on Neural Information Processing Systems (NeurIPS 2024, 2025 )</li>
+  <li>International Conference on Learning Representations (ICLR 2025,2026)</li>
+  <li>ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (ACM SIGKDD 2024, 2025)</li>
+  <li>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</li>
+  <li>International Conference on Computer Vision (ICCV 2024)</li>
+  <li>European Conference on Computer Vision (ECCV 2024)</li>
+  <li>AAAI Conference on Artificial Intelligence (AAAI 2023,2024,2025 )</li>
+  <li>International Joint Conference on Artificial Intelligence (IJCAI 2023,2024,2025)</li>
+  <li>ACM International Conference on Multimedia (ACM MM 2023,2024,2025)</li>
+  <li>International Conference on Artificial Intelligence and Statistics (AISTATS 2025)</li>
+</ul>
 
-
-
-
+<h3>Journal Reviewer</h3>
+<ul class="reviewer-list">
+  <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
+  <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
+  <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
+  <li>Pattern Recognition (PR)</li>>
+  <li>Neural Networks</li>>
+  <li>Neurocomputing</li>
+</ul>
 
 {%- comment -%}
 {% include_relative _includes/publications.md %}
