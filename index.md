@@ -26,6 +26,19 @@ My research interests lie in the fields of machine learning and data mining, wit
 - **[Aug. 2024]** I have been invited to serve as a reviewer for ICLR 2025.
 - **[Jul. 2024]** I have been invited to serve as a reviewer for ACM SIGKDD 2025 and AAAI 2025.
 
-{% include_relative _includes/publications.md %}
+## Selected Publications
+2025 
 
+1. *KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering.*  
+   Tingting Wu, Zhendong Li, **Zhibin Gu**, Jiazheng Yuan, Songhe Feng*  
+   *AAAI 2025.*
+
+
+
+{%- comment -%}
+{% include_relative _includes/publications.md %}
+{%- endcomment -%}
+
+{%- comment -%}
 {% include_relative _includes/services.md %}
+{%- endcomment -%}
