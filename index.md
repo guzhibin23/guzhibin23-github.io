@@ -95,8 +95,8 @@ I invite students and research assistants, including undergraduates, with an int
 </ul>
 
 
-## <h2>Professional Service</h2>
-<h3>Conference Reviewer</h3>
+## Professional Service
+Conference Reviewer
 <ul class="reviewer-list">
 <li>International Joint Conference on Neural Networks <strong> (IJCNN, 2025, Area Chair)</strong></li>
   <li>International Conference on Machine Learning (ICML, 2024 )</li>
@@ -112,7 +112,7 @@ I invite students and research assistants, including undergraduates, with an int
   <li>International Conference on Artificial Intelligence and Statistics (AISTATS 2025)</li>
 </ul>
 
-<h3>Journal Reviewer</h3>
+Journal Reviewer
 <ul class="reviewer-list">
   <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
   <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
