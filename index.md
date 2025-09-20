@@ -28,18 +28,68 @@ My research interests lie in the fields of machine learning and data mining, wit
 
 ## Selected Publications
 <ul class="publications-list">
-  <li>
-    <span class="authors">Zhenhao Zhong, <strong>Zhibin Gu</strong>, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo</span>
-    <span class="title">Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization</span>
-    <span class="venue">NeurIPS, 2025 (CCF A)</span>
-  </li>
-  <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Weili Wang</span>
+    <li>
+    <span class="authors"><strong>Zhibin Gu</strong>, Weili Wang*.</span>
     <span class="title">Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization</span>
-    <span class="venue">NeurIPS, 2025 (CCF A)</span>
+    <span class="venue">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025 (<strong>CCF A</strong>)</span>
   </li>
-  <!-- 其他论文 -->
+  
+  <li>
+    <span class="authors">Zhenhao Zhong, <strong>Zhibin Gu</strong>*, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo.</span>
+    <span class="title">Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization</span>
+    <span class="venue">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025 (<strong>CCF A</strong>)</span>
+  </li>
+
+  <li>
+    <span class="authors"><strong>Zhibin Gu</strong>, Songhe Feng*.</span>
+    <span class="title">Twin Tensor Learning for Consistency and Inconsistency: A Unified Affinity Learning Framework for Multi-View Clustering</span>
+    <span class="venue">IEEE Transactions on Multimedia (<strong>TMM</strong>), 2025 (<strong>CCF B</strong>)</span>
+  </li>
+  
+  <li>
+    <span class="authors">Tingting Wu, Zhendong Li, <strong>Zhibin Gu</strong>, Jiazheng Yuan, Songhe Feng*.</span>
+    <span class="title">KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering</span>
+    <span class="venue">Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025 (<strong>CCF A</strong>)</span>
+  </li>
+
+  <li>
+    <span class="authors"><strong>Zhibin Gu</strong>, Songhe Feng*.</span>
+    <span class="title">From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement</span>
+    <span class="venue">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024 (<strong>CCF A</strong>)</span>
+  </li>
+
+  <li>
+    <span class="authors"><strong>Zhibin Gu</strong>, Zhendong Li^, Songhe Feng*.</span>
+    <span class="title">EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Rank Error Minimization</span>
+    <span class="venue">International Conference on Machine Learning (<strong>ICML</strong>), 2024 (<strong>CCF A</strong>)</span>
+  </li>
+
+  <li>
+    <span class="authors"><strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*.</span>
+    <span class="title">Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization</span>
+    <span class="venue">ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024 (<strong>CCF A</strong>)</span>
+  </li>
+
+  <li>
+    <span class="authors"><strong>Zhibin Gu</strong>, Songhe Feng*, Zhendong Li, Jiazheng Yuan*, Jun Liu.</span>
+    <span class="title">NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering</span>
+    <span class="venue">ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), 18(6), 151:1–23, 2024 (<strong>CCF B</strong>)</span>
+  </li>
+
+  <li>
+    <span class="authors"><strong>Zhibin Gu</strong>, Songhe Feng*.</span>
+    <span class="title">Individuality Meets Commonality: A Unified Graph Learning Framework for Multi-View Clustering</span>
+    <span class="venue">ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), 17(1), 7:1–21, 2023 (<strong>CCF B</strong>)</span>
+  </li>
+
+  <li>
+    <span class="authors"><strong>Zhibin Gu</strong>, Songhe Feng*, Huiting Hu, Gengyu Lyu.</span>
+    <span class="title">ONION: Joint Unsupervised Feature Selection and Robust Subspace Extraction for Graph-based Multi-View Clustering</span>
+    <span class="venue">ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), 17(5), 70:1–23, 2023 (<strong>CCF B</strong>)</span>
+  </li>
 </ul>
+
+
 
 
 
