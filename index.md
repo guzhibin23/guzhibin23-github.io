@@ -27,33 +27,21 @@ My research interests lie in the fields of machine learning and data mining, wit
 - **[Jul. 2024]** I have been invited to serve as a reviewer for ACM SIGKDD 2025 and AAAI 2025.
 
 ## Selected Publications
-2025 
-
-## Publications
-
-## Publications
-
 <ul class="publications-list">
   <li>
-    <span class="authors">Zhenhao Zhong, <strong>Zhibin Gu</strong>, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo</span> — 
-    <span class="title"><strong>Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization</strong></span> — 
-    <span class="venue"><em>Conference on Neural Information Processing Systems (NeurIPS), 2025 (CCF A)</em></span>
+    <span class="authors">Zhenhao Zhong, <strong>Zhibin Gu</strong>, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo</span>
+    <span class="title">Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization</span>
+    <span class="venue">NeurIPS, 2025 (CCF A)</span>
   </li>
-
   <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Weili Wang</span> — 
-    <span class="title"><strong>Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization</strong></span> — 
-    <span class="venue"><em>Conference on Neural Information Processing Systems (NeurIPS), 2025 (CCF A)</em></span>
+    <span class="authors"><strong>Zhibin Gu</strong>, Weili Wang</span>
+    <span class="title">Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization</span>
+    <span class="venue">NeurIPS, 2025 (CCF A)</span>
   </li>
-
-  <li>
-    <span class="authors">Tingting Wu, Zhendong Li, <strong>Zhibin Gu</strong>, Jiazheng Yuan, Songhe Feng*</span> — 
-    <span class="title"><strong>KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering</strong></span> — 
-    <span class="venue"><em>Annual AAAI Conference on Artificial Intelligence (AAAI), 2025 (CCF A)</em></span>
-  </li>
-  
-  <!-- 后续论文类似 -->
+  <!-- 其他论文 -->
 </ul>
+
+
 
 
 
