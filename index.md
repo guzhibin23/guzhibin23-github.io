@@ -7,6 +7,11 @@ layout: homepage
 I am Zhibin Gu (谷志斌), currently a Distinguished Associate Professor at Hebei Normal University. Prior to this, I obtained my Ph.D. in Computer Science from Beijing Jiaotong University in June 2024, under the supervision of Prof. [Songhe Feng](http://faculty.bjtu.edu.cn/8407/). From March 2023 to March 2024, I was a visiting student at the Singapore University of Technology and Design, where I worked under the guidance of Prof. [Jun Liu](https://wp.lancs.ac.uk/vl/).
 My research interests lie in the fields of machine learning and data mining, with a particular focus on multi-view representation learning, clustering analysis, and weakly-supervised learning. My long-term goal is to develop algorithms and systems that can learn from limited, dynamic, and imperfect real-world data in a manner similar to human learning.
 
+<p style="color:red;">
+I invite students and research assistants, including undergraduates, with an interest in machine learning theory to join my research group. Remote collaboration is welcome, and interested candidates are encouraged to get in touch for further discussion.
+</p>
+
+
 
 ## Research Interests
 
@@ -93,8 +98,8 @@ My research interests lie in the fields of machine learning and data mining, wit
 ## <h2>Professional Service</h2>
 <h3>Conference Reviewer</h3>
 <ul class="reviewer-list">
-International Joint Conference on Neural Networks <li><strong> (IJCNN, 2025, Area Chair)</strong></li>
-  <li>International Conference on Machine Learning (ICML 2024 )</li>
+<li>International Joint Conference on Neural Networks <strong> (IJCNN, 2025, Area Chair)</strong></li>
+  <li>International Conference on Machine Learning (ICML, 2024 )</li>
   <li>Conference on Neural Information Processing Systems (NeurIPS 2024, 2025 )</li>
   <li>International Conference on Learning Representations (ICLR 2025,2026)</li>
   <li>ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (ACM SIGKDD 2024, 2025)</li>
@@ -112,8 +117,8 @@ International Joint Conference on Neural Networks <li><strong> (IJCNN, 2025, Are
   <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
   <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
   <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
-  <li>Pattern Recognition (PR)</li>>
-  <li>Neural Networks</li>>
+  <li>Pattern Recognition (PR)</li>
+  <li>Neural Networks</li>
   <li>Neurocomputing</li>
 </ul>
 
