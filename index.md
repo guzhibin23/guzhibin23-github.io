@@ -27,95 +27,82 @@ I invite students and research assistants, including undergraduates, with an int
 - **[Dec. 2024]** I have been invited to serve as a reviewer for ICML 2025, IJCAI 2025, ECML-PKDD (ADS) 2025 and UAI 2025.
 
 ## Selected Publications (*Corresponding author)
-<ul class="publications-list">
-    <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Weili Wang*.</span>
-    <span class="title">Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization</span>
-    <span class="venue">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025 (<strong>CCF A</strong>)</span>
-  </li>
-  
-  <li>
-    <span class="authors">Zhenhao Zhong, <strong>Zhibin Gu</strong>*, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo.</span>
-    <span class="title">Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization</span>
-    <span class="venue">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025 (<strong>CCF A</strong>)</span>
-  </li>
 
-  <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Songhe Feng*.</span>
-    <span class="title">Twin Tensor Learning for Consistency and Inconsistency: A Unified Affinity Learning Framework for Multi-View Clustering</span>
-    <span class="venue">IEEE Transactions on Multimedia (<strong>TMM</strong>), 2025 (<strong>CCF B</strong>)</span>
-  </li>
-  
-  <li>
-    <span class="authors">Tingting Wu, Zhendong Li, <strong>Zhibin Gu</strong>, Jiazheng Yuan, Songhe Feng*.</span>
-    <span class="title">KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering</span>
-    <span class="venue">Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025 (<strong>CCF A</strong>)</span>
-  </li>
+### 2025
+- <strong>Zhibin Gu</strong>, Weili Wang*.  
+  **Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization**  
+  *NeurIPS 2025 (CCF A)* [📄 PDF](#) [💻 Code](#)
 
-  <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Songhe Feng*.</span>
-    <span class="title">From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement</span>
-    <span class="venue">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024 (<strong>CCF A</strong>)</span>
-  </li>
+- Zhenhao Zhong, <strong>Zhibin Gu</strong>*, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo.  
+  **Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization**  
+  *NeurIPS 2025 (CCF A)* [📄 PDF](#)
 
-  <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*.</span>
-    <span class="title">EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Rank Error Minimization</span>
-    <span class="venue">International Conference on Machine Learning (<strong>ICML</strong>), 2024 (<strong>CCF A</strong>)</span>
-  </li>
+- <strong>Zhibin Gu</strong>, Songhe Feng*.  
+  **Twin Tensor Learning for Consistency and Inconsistency: A Unified Affinity Learning Framework for Multi-View Clustering**  
+  *IEEE TMM 2025 (CCF B)* [📄 PDF](#)
 
-  <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*.</span>
-    <span class="title">Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization</span>
-    <span class="venue">ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024 (<strong>CCF A</strong>)</span>
-  </li>
+- Tingting Wu, Zhendong Li, <strong>Zhibin Gu</strong>, Jiazheng Yuan, Songhe Feng*.  
+  **KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering**  
+  *AAAI 2025 (CCF A)* [📄 PDF](#) [💻 Code](#)
 
-  <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Songhe Feng*, Zhendong Li, Jiazheng Yuan*, Jun Liu.</span>
-    <span class="title">NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering</span>
-    <span class="venue">ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), 18(6), 151:1–23, 2024 (<strong>CCF B</strong>)</span>
-  </li>
+---
 
-  <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Songhe Feng*.</span>
-    <span class="title">Individuality Meets Commonality: A Unified Graph Learning Framework for Multi-View Clustering</span>
-    <span class="venue">ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), 17(1), 7:1–21, 2023 (<strong>CCF B</strong>)</span>
-  </li>
+### 2024
+- <strong>Zhibin Gu</strong>, Songhe Feng*.  
+  **From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement**  
+  *NeurIPS 2024 (CCF A)* [📄 PDF](#)
 
-  <li>
-    <span class="authors"><strong>Zhibin Gu</strong>, Songhe Feng*, Huiting Hu, Gengyu Lyu.</span>
-    <span class="title">ONION: Joint Unsupervised Feature Selection and Robust Subspace Extraction for Graph-based Multi-View Clustering</span>
-    <span class="venue">ACM Transactions on Knowledge Discovery from Data (<strong>TKDD</strong>), 17(5), 70:1–23, 2023 (<strong>CCF B</strong>)</span>
-  </li>
-</ul>
+- <strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*.  
+  **EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Rank Error Minimization**  
+  *ICML 2024 (CCF A)* [📄 PDF](#)
+
+- <strong>Zhibin Gu</strong>, Zhendong Li, Songhe Feng*.  
+  **Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization**  
+  *KDD 2024 (CCF A)* [📄 PDF](#)
+
+- <strong>Zhibin Gu</strong>, Songhe Feng*, Zhendong Li, Jiazheng Yuan*, Jun Liu.  
+  **NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering**  
+  *ACM TKDD 18(6):151, 2024 (CCF B)* [📄 PDF](#)
+
+---
+
+### 2023
+- <strong>Zhibin Gu</strong>, Songhe Feng*.  
+  **Individuality Meets Commonality: A Unified Graph Learning Framework for Multi-View Clustering**  
+  *ACM TKDD 17(1):7, 2023 (CCF B)* [📄 PDF](#)
+
+- <strong>Zhibin Gu</strong>, Songhe Feng*, Huiting Hu, Gengyu Lyu.  
+  **ONION: Joint Unsupervised Feature Selection and Robust Subspace Extraction for Graph-based Multi-View Clustering**  
+  *ACM TKDD 17(5):70, 2023 (CCF B)* [📄 PDF](#)
+
+
 
 
 ## Professional Service
-Conference Reviewer
-<ul class="reviewer-list">
-<li>International Joint Conference on Neural Networks <strong> (IJCNN, 2025, Area Chair)</strong></li>
-  <li>International Conference on Machine Learning (ICML, 2024 )</li>
-  <li>Conference on Neural Information Processing Systems (NeurIPS 2024, 2025 )</li>
-  <li>International Conference on Learning Representations (ICLR 2025,2026)</li>
-  <li>ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (ACM SIGKDD 2024, 2025)</li>
-  <li>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)</li>
-  <li>International Conference on Computer Vision (ICCV 2024)</li>
-  <li>European Conference on Computer Vision (ECCV 2024)</li>
-  <li>AAAI Conference on Artificial Intelligence (AAAI 2023,2024,2025 )</li>
-  <li>International Joint Conference on Artificial Intelligence (IJCAI 2023,2024,2025)</li>
-  <li>ACM International Conference on Multimedia (ACM MM 2023,2024,2025)</li>
-  <li>International Conference on Artificial Intelligence and Statistics (AISTATS 2025)</li>
-</ul>
 
-Journal Reviewer
-<ul class="reviewer-list">
-  <li>IEEE Transactions on Knowledge and Data Engineering (TKDE)</li>
-  <li>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</li>
-  <li>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</li>
-  <li>Pattern Recognition (PR)</li>
-  <li>Neural Networks</li>
-  <li>Neurocomputing</li>
-</ul>
+### Conference Reviewer / Area Chair
+- **Area Chair**: International Joint Conference on Neural Networks (IJCNN 2025)
+- Reviewer:  
+  - International Conference on Machine Learning (ICML 2024)  
+  - Conference on Neural Information Processing Systems (NeurIPS 2024, 2025)  
+  - International Conference on Learning Representations (ICLR 2025, 2026)  
+  - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024, 2025)  
+  - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024)  
+  - International Conference on Computer Vision (ICCV 2024)  
+  - European Conference on Computer Vision (ECCV 2024)  
+  - AAAI Conference on Artificial Intelligence (AAAI 2023–2025)  
+  - International Joint Conference on Artificial Intelligence (IJCAI 2023–2025)  
+  - ACM International Conference on Multimedia (ACM MM 2023–2025)  
+  - International Conference on Artificial Intelligence and Statistics (AISTATS 2025)
+
+### Journal Reviewer
+- IEEE Transactions on Knowledge and Data Engineering (**TKDE**)  
+- IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)  
+- IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)  
+- Pattern Recognition (**PR**)  
+- Neural Networks  
+- Neurocomputing  
+
 
 {%- comment -%}
 {% include_relative _includes/publications.md %}
