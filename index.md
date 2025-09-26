@@ -36,7 +36,7 @@ I invite students and research assistants, including undergraduates, with an int
 
 - **2024**  
   - **Zhibin Gu**, Songhe Feng*. **From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement.** **NeurIPS 2024 (CCF A)** 
-  - **Zhibin Gu**, Zhendong Li, Songhe Feng*. **EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Rank Error Minimization.** **ICML 2024 (CCF A)** [📄 PDF](#)  
+  - **Zhibin Gu**, Zhendong Li, Songhe Feng*. **EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Rank Error Minimization.** **ICML 2024 (CCF A)** 
   - **Zhibin Gu**, Zhendong Li, Songhe Feng*. **Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization.** **KDD 2024 (CCF A)**
   - **Zhibin Gu**, Songhe Feng*, Zhendong Li, Jiazheng Yuan*, Jun Liu. **NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering.** **ACM TKDD 18(6), 151:1–23, 2024 (CCF B)** 
 
