@@ -29,22 +29,21 @@ I invite students and research assistants, including undergraduates, with an int
 ## Selected Publications (*Corresponding author)
 
 - **2025**  
-  - **Zhibin Gu**, Weili Wang*. **Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization.** **NeurIPS 2025 (CCF A)** [📄 PDF](#)  
-  - Zhenhao Zhong, **Zhibin Gu***, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo. **Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization.** **NeurIPS 2025 (CCF A)** [📄 PDF](#)  
-  - **Zhibin Gu**, Songhe Feng*. **Twin Tensor Learning for Consistency and Inconsistency: A Unified Affinity Learning Framework for Multi-View Clustering.** **IEEE TMM 2025 (CCF B)** [📄 PDF](#)  
-  - Tingting Wu, Zhendong Li, **Zhibin Gu**, Jiazheng Yuan, Songhe Feng*. **KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering.** **AAAI 2025 (CCF A)** [📄 PDF](#)  
+  - **Zhibin Gu**, Weili Wang*. **Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization.** **NeurIPS 2025 (CCF A)**
+  - Zhenhao Zhong, **Zhibin Gu***, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo. **Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization.** **NeurIPS 2025 (CCF A)**
+  - **Zhibin Gu**, Songhe Feng*. **Twin Tensor Learning for Consistency and Inconsistency: A Unified Affinity Learning Framework for Multi-View Clustering.** **IEEE TMM 2025 (CCF B)** 
+  - Tingting Wu, Zhendong Li, **Zhibin Gu**, Jiazheng Yuan, Songhe Feng*. **KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering.** **AAAI 2025 (CCF A)**
 
 - **2024**  
-  - **Zhibin Gu**, Songhe Feng*. **From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement.** **NeurIPS 2024 (CCF A)** [📄 PDF](#)  
+  - **Zhibin Gu**, Songhe Feng*. **From Dictionary to Tensor: A Scalable Multi-View Subspace Clustering Framework with Triple Information Enhancement.** **NeurIPS 2024 (CCF A)** 
   - **Zhibin Gu**, Zhendong Li, Songhe Feng*. **EDISON: Enhanced Dictionary-Induced Tensorized Incomplete Multi-View Clustering with Gaussian Rank Error Minimization.** **ICML 2024 (CCF A)** [📄 PDF](#)  
-  - **Zhibin Gu**, Zhendong Li, Songhe Feng*. **Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization.** **KDD 2024 (CCF A)** [📄 PDF](#)  
-  - **Zhibin Gu**, Songhe Feng*, Zhendong Li, Jiazheng Yuan*, Jun Liu. **NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering.** **ACM TKDD 18(6), 151:1–23, 2024 (CCF B)** [📄 PDF](#)  
+  - **Zhibin Gu**, Zhendong Li, Songhe Feng*. **Topology-Driven Multi-View Clustering via Tensorial Refined Sigmoid Rank Minimization.** **KDD 2024 (CCF A)**
+  - **Zhibin Gu**, Songhe Feng*, Zhendong Li, Jiazheng Yuan*, Jun Liu. **NOODLE: Joint Cross-View Discrepancy Discovery and High-Order Correlation Detection for Multi-View Subspace Clustering.** **ACM TKDD 18(6), 151:1–23, 2024 (CCF B)** 
 
 - **2023**  
-  - **Zhibin Gu**, Songhe Feng*. **Individuality Meets Commonality: A Unified Graph Learning Framework for Multi-View Clustering.** **ACM TKDD 17(1), 7:1–21, 2023 (CCF B)** [📄 PDF](#)  
-  - **Zhibin Gu**, Songhe Feng*, Huiting Hu, Gengyu Lyu. **ONION: Joint Unsupervised Feature Selection and Robust Subspace Extraction for Graph-based Multi-View Clustering.** **ACM TKDD 17(5), 70:1–23, 2023 (CCF B)** [📄 PDF](#)  
+  - **Zhibin Gu**, Songhe Feng*. **Individuality Meets Commonality: A Unified Graph Learning Framework for Multi-View Clustering.** **ACM TKDD 17(1), 7:1–21, 2023 (CCF B)** 
+  - **Zhibin Gu**, Songhe Feng*, Huiting Hu, Gengyu Lyu. **ONION: Joint Unsupervised Feature Selection and Robust Subspace Extraction for Graph-based Multi-View Clustering.** **ACM TKDD 17(5), 70:1–23, 2023 (CCF B)**
    - Jing Wang, Songhe Feng, Gengyu Lyu, **Zhibin Gu**. **Triple-Granularity Contrastive Learning for Deep Multi-View Subspace Clustering.** **ACM MM 2023 (CCF A)**
-## Professional Service
 
 ## Professional Service
 
