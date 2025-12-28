@@ -14,8 +14,7 @@ I invite students and research assistants, including undergraduates, with an int
 
 ## Research Interests
 
-- **Machine Learning:** multi-view learning, clustering analysis, weakly supervised learning
-- **Data Mining:** graph representation learning, convex and non-convex optimization
+- **Machine Learning & Data Mining:**  Multi-view Clustering; Graph Representation Learning; Time Series Forecasting
   
 ## News
 
