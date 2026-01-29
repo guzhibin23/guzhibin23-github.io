@@ -46,7 +46,7 @@ I invite students and research assistants, including undergraduates, with an int
 ### Conference Service
 
 - **Area Chair**
-  - IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, MLSP Track, 2026**)
+  - IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, 2026**)
   - International Joint Conference on Neural Networks (**IJCNN, 2025, 2026**)
 
 - **Reviewer**  
