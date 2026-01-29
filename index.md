@@ -4,10 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am Zhibin Gu (谷志斌), currently a Distinguished Associate Professor at Hebei Normal University. I also hold a concurrent position as a Research Fellow at the Institute of Automation, Chinese Academy of Sciences, where I work under the supervision of Prof.[Bing Li](https://people.ucas.edu.cn/~bingli). Prior to these appointments, I received my Ph.D. in Computer Science from Beijing Jiaotong University in June 2024, under the supervision of Prof. [Songhe Feng](http://faculty.bjtu.edu.cn/8407/). From March 2023 to March 2024, I was a visiting student at the Singapore University of Technology and Design, where I worked under the guidance of Prof. [Jun Liu](https://wp.lancs.ac.uk/vl/). My research interests lie in machine learning and data mining, with a particular focus on multi-view clustering and time series forecasting.
+I am Zhibin Gu (谷志斌), currently a Distinguished Associate Professor at Hebei Normal University. I also hold a concurrent position as a Research Fellow at the Institute of Automation, Chinese Academy of Sciences, where I work under the supervision of Prof. [Bing Li](https://people.ucas.edu.cn/~bingli). Prior to these appointments, I received my Ph.D. in Computer Science from Beijing Jiaotong University in June 2024, under the supervision of Prof. [Songhe Feng](http://faculty.bjtu.edu.cn/8407/). From March 2023 to March 2024, I was a visiting student at the Singapore University of Technology and Design, where I worked under the guidance of Prof. [Jun Liu](https://wp.lancs.ac.uk/vl/). I am sincerely grateful to these mentors for their invaluable guidance and insightful support, which have profoundly shaped my research trajectory. 
+
+<p>
+My research interests lie in <strong>machine learning and data mining</strong>, with a particular focus on <strong>multi-view clustering</strong> and <strong>time series forecasting</strong>.
+</p>
 
 <p style="color:red;">
-I invite students and research assistants, including undergraduates, with an interest in machine learning theory to join my research group. Remote collaboration is welcome, and interested candidates are encouraged to get in touch for further discussion.
+I am actively recruiting motivated students and research assistants, including undergraduates, who are interested in machine learning, data mining, and related areas. Remote collaboration is welcome. Interested candidates are encouraged to contact me for further discussion.
 </p>
   
 ## News
