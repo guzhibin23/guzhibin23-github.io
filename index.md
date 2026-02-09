@@ -24,15 +24,15 @@ I am actively recruiting motivated students and research assistants, including u
 
 ## Selected Publications (*Corresponding author)
 - **2026**  
-  - **Zhibin Gu**, Zhenhao Zhong, Xi Zhang, Bing Li*. Constant Degree Matrix-Driven Incomplete Multi-View Clustering via Connectivity-Structure and Embedding Tensor Learning. **ICLR 2026**
   - Feiyang Chen, Ruiqiang Guo, **Zhibin Gu***. Multi-Scale Diffusion-Guided Graph Learning with Power-Smoothing Random Walk Contrast for Multi-View Clustering. **ICLR 2026**
   - Wenyuan Kong, **Zhibin Gu***, Bing Li. Dual-Branch Representations with Dynamic Gated Fusion and Triple-Granularity Alignment for Deep Multi-View Clustering. **ICLR 2026**
+  - **Zhibin Gu**, Zhenhao Zhong, Xi Zhang, Bing Li*. Constant Degree Matrix-Driven Incomplete Multi-View Clustering via Connectivity-Structure and Embedding Tensor Learning. **ICLR 2026**
+  - **Zhibin Gu**, Songhe Feng*. Twin Tensor Learning for Consistency and Inconsistency: A Unified Affinity Learning Framework for Multi-View Clustering. **IEEE TMM 2025 (CCF B)**
   - Yaqian Zhou, Zhenghao Fang, **Zhibin Gu**, Song Yang, Yan Wang. Instance and Prototype Contrastive Learning for Multi-View 3D Model Retrieval and Classification. **IPM (CCF B)**
 
 - **2025**  
   - **Zhibin Gu**, Weili Wang*. Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization. **NeurIPS 2025 (CCF A)**
   - Zhenhao Zhong, **Zhibin Gu***, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo. Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization. **NeurIPS 2025 (CCF A)**
-  - **Zhibin Gu**, Songhe Feng*. Twin Tensor Learning for Consistency and Inconsistency: A Unified Affinity Learning Framework for Multi-View Clustering. **IEEE TMM 2025 (CCF B)**
   - Tingting Wu, Zhendong Li, **Zhibin Gu**, Jiazheng Yuan, Songhe Feng*. KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering. **AAAI 2025 (CCF A)**
 
 - **2024**  
