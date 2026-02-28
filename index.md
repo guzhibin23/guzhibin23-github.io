@@ -27,7 +27,7 @@ I am actively recruiting motivated students and research assistants, including u
   - Feiyang Chen, Ruiqiang Guo, **Zhibin Gu***. Multi-Scale Diffusion-Guided Graph Learning with Power-Smoothing Random Walk Contrast for Multi-View Clustering. **ICLR 2026**
   - Wenyuan Kong, **Zhibin Gu***, Bing Li. Dual-Branch Representations with Dynamic Gated Fusion and Triple-Granularity Alignment for Deep Multi-View Clustering. **ICLR 2026**
   - **Zhibin Gu**, Zhenhao Zhong, Xi Zhang, Bing Li*. Constant Degree Matrix-Driven Incomplete Multi-View Clustering via Connectivity-Structure and Embedding Tensor Learning. **ICLR 2026**
-  - **Zhibin Gu**, Songhe Feng*. Twin Tensor Learning for Consistency and Inconsistency: A Unified Affinity Learning Framework for Multi-View Clustering. **IEEE TMM 2025 (CCF B)**
+  - **Zhibin Gu**, Songhe Feng*. Twin Tensor Learning for Consistency and Inconsistency: A Unified Affinity Learning Framework for Multi-View Clustering. **IEEE TMM (CCF B)**
   - Yaqian Zhou, Zhenghao Fang, **Zhibin Gu**, Song Yang, Yan Wang. Instance and Prototype Contrastive Learning for Multi-View 3D Model Retrieval and Classification. **IPM (CCF B)**
 
 - **2025**  
