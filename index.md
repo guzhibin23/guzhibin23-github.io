@@ -32,7 +32,7 @@ I am actively recruiting motivated students and research assistants, including u
 
 - **2025**  
   - **Zhibin Gu**, Weili Wang*. Hypergraph-Enhanced Contrastive Learning for Multi-View Clustering with Hyper-Laplacian Regularization. **NeurIPS 2025 (CCF A)** [Code](https://github.com/guzhibin23/HOPER)
-  - Zhenhao Zhong, **Zhibin Gu***, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo. Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization. **NeurIPS 2025 (CCF A)**
+  - Zhenhao Zhong, **Zhibin Gu***, Pengpeng Yang, Yaqian Zhou, Ruiqiang Guo. Gaussian Regression-Driven Tensorized Incomplete Multi-View Clustering with Dual Manifold Regularization. **NeurIPS 2025 (CCF A)** [Code](https://github.com/RockfireTip/GUITAR)  
   - Tingting Wu, Zhendong Li, **Zhibin Gu**, Jiazheng Yuan, Songhe Feng*. KOALA: Kernel Coupling and Element Imputation Induced Multi-View Clustering. **AAAI 2025 (CCF A)**
 
 - **2024**  
