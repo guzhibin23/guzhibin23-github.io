@@ -61,11 +61,12 @@ I am actively recruiting motivated students and research assistants, including u
     - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024, 2025**)  
     - AAAI Conference on Artificial Intelligence (**AAAI 2023–2026**)  
     - International Joint Conference on Artificial Intelligence (**IJCAI 2023–2026**)  
-    - ACM International Conference on Multimedia (**ACM MM 2023–2025**)  
+    - ACM International Conference on Multimedia (**ACM MM 2023–2026**)  
     - International Conference on Artificial Intelligence and Statistics (**AISTATS 2025**)  
     - IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR 2024**)  
     - International Conference on Computer Vision (**ICCV 2024**)  
-    - European Conference on Computer Vision (**ECCV 2024**)  
+    - European Conference on Computer Vision (**ECCV 2024**)
+    - British Machine Vision Conference (**BMVC 2026**)
 
 ### Journal Service
 
