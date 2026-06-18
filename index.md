@@ -52,7 +52,7 @@ I am actively recruiting motivated students and research assistants, including u
 
 - **Area Chair**
   - IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, 2026**)
-  - International Joint Conference on Neural Networks (**IJCNN, 2025, 2026, 2027**)
+  - International Joint Conference on Neural Networks (**IJCNN, 2025-2027**)
 
 - **Reviewer**  
     - International Conference on Machine Learning (**ICML 2024-2025**)  
@@ -74,7 +74,9 @@ I am actively recruiting motivated students and research assistants, including u
   - IEEE Transactions on Image Processing (**TIP**)  
   - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)  
   - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)  
-  - IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)  
+  - IEEE Transactions on Circuits and Systems for Video Technology (**TCSVT**)
+  - Engineering Applications of Artificial Intelligence(**EAAI**)
+  - Expert Systems With Applications(**ESWA**)
   - Pattern Recognition (**PR**)
   - Knowledge-Based Systems
   - Cognitive Computation
