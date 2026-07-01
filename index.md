@@ -23,7 +23,8 @@ I am actively recruiting motivated students and research assistants, including u
 - **[Feb. 2025]** I have been invited to serve as a reviewer for ICCV 2025 and NeurIPS 2025.
 
 ## Selected Publications (*Corresponding author)
-- **2026**  
+- **2026**
+  - Siyuan Zhou, **Zhibin Gu***. OPTION: Optimal Transport–Guided Flow Matching for Incomplete and Unaligned Multi-View Clustering. **ICML 2026** [Code](https://github.com/timozhou1024/option)
   - Feiyang Chen, Ruiqiang Guo, **Zhibin Gu***. Multi-Scale Diffusion-Guided Graph Learning with Power-Smoothing Random Walk Contrast for Multi-View Clustering. **ICLR 2026** [Code](https://github.com/FeiYang73/MANGO)
   - Wenyuan Kong, **Zhibin Gu***, Bing Li. Dual-Branch Representations with Dynamic Gated Fusion and Triple-Granularity Alignment for Deep Multi-View Clustering. **ICLR 2026**
   - **Zhibin Gu**, Zhenhao Zhong, Xi Zhang, Bing Li*. Constant Degree Matrix-Driven Incomplete Multi-View Clustering via Connectivity-Structure and Embedding Tensor Learning. **ICLR 2026** [Code](https://github.com/guzhibin23/CAMEL) 
