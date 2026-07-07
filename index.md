@@ -15,6 +15,7 @@ I am actively recruiting motivated students and research assistants, including u
 </p>
   
 ## News
+- **[May. 2026]** One paper has been accepted by ICML 2026.
 - **[Jan. 2026]** Three papers have been accepted by ICLR 2026.
 - **[Jan. 2026]** I have been invited to serve as an **Area Chair** for the IJCNN 2026.
 - **[Oct. 2025]** I have been invited to serve as an **Area Chair** for the ICASSP 2026.
@@ -59,8 +60,8 @@ I am actively recruiting motivated students and research assistants, including u
     - International Conference on Machine Learning (**ICML 2024-2025**)  
     - Conference on Neural Information Processing Systems (**NeurIPS 2024, 2025**)  
     - International Conference on Learning Representations (**ICLR 2025, 2026**)  
-    - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024, 2025**)  
-    - AAAI Conference on Artificial Intelligence (**AAAI 2023–2026**)  
+    - ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2024-2026**)  
+    - AAAI Conference on Artificial Intelligence (**AAAI 2023–2027**)  
     - International Joint Conference on Artificial Intelligence (**IJCAI 2023–2026**)  
     - ACM International Conference on Multimedia (**ACM MM 2023–2026**)  
     - International Conference on Artificial Intelligence and Statistics (**AISTATS 2025**)  
