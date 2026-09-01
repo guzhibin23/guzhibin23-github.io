@@ -73,6 +73,7 @@ I am actively recruiting motivated students and research assistants, including u
 ### Journal Service
 
 - **Reviewer**
+  - IEEE Transactions on Multimedia (**TMM**)  
   - IEEE Transactions on Image Processing (**TIP**)  
   - IEEE Transactions on Knowledge and Data Engineering (**TKDE**)  
   - IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**)  
