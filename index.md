@@ -55,6 +55,7 @@ I am actively recruiting motivated students and research assistants, including u
 - **Area Chair**
   - IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP, 2026**)
   - International Joint Conference on Neural Networks (**IJCNN, 2025-2027**)
+  - IEEE Visual Communications and Image Processing  (**VCIP, 2026**)
 
 - **Reviewer**  
     - International Conference on Machine Learning (**ICML 2024-2025**)  
